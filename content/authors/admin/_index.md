@@ -24,4 +24,4 @@ user_groups: []
 highlight_name: false
 email: ""
 ---
-I am a PhD candidate at [Columbia IEOR](https://www.ieor.columbia.edu) where I am fortunate to be co-advised by [Prof. Garud Iyengar](http://www.columbia.edu/~gi10/) and [Prof. Assaf Zeevi](https://www0.gsb.columbia.edu/faculty/azeevi/). My research focusses on developing methods for multi-objective learning with a focus on healthcare applications.
+I am a PhD candidate at [Columbia IEOR](https://www.ieor.columbia.edu) where I am fortunate to be co-advised by [Prof. Garud Iyengar](http://www.columbia.edu/~gi10/) and [Prof. Assaf Zeevi](https://www0.gsb.columbia.edu/faculty/azeevi/). My research focusses on developing methods for multi-objective learning with applications in healthcare and sustainable energy.
