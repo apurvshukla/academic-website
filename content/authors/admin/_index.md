@@ -7,13 +7,13 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: apurv.shukla@columbia.edu
+    link: mailto:apurv.shukla@columbia.edu
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/apurv-shukla-86550966/
   - icon: github
     icon_pack: fab
-    link: https://github.com/apurv3894@@
+    link: https://github.com/apurv3894
 organizations:
   - name: Columbia University
     url: ""
