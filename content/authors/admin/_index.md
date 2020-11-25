@@ -10,7 +10,7 @@ social:
     link: mailto:apurv.shukla@columbia.edu
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/apurv-shukla-86550966/
+    link: https://www.linkedin.com/in/apurv-shukla-86550966
   - icon: github
     icon_pack: fab
     link: https://github.com/apurv3894
