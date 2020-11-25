@@ -9,7 +9,7 @@ social:
     icon_pack: fas
     link: apurv.shukla@columbia.edu
   - icon: linkedin
-    icon_pack: ai
+    icon_pack: fab
     link: https://www.linkedin.com/in/apurv-shukla-86550966/
   - icon: github
     icon_pack: fab
