@@ -1,6 +1,6 @@
 ---
 title: Apurv Shukla
-role: PhD Candidate at Columbia IEOR
+role: PhD Candidate
 avatar_filename: headshot3.jpg
 bio: ""
 interests: []
