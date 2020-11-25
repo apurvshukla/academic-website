@@ -28,6 +28,6 @@ education:
 superuser: true
 user_groups: []
 highlight_name: false
-email: ""
+email: "apurv.shukla@columbia.edu"
 ---
 I am a PhD candidate at [Columbia IEOR](https://www.ieor.columbia.edu) where I am fortunate to be advised by [Prof. Garud Iyengar](http://www.columbia.edu/~gi10/) and [Prof. Assaf Zeevi](https://www0.gsb.columbia.edu/faculty/azeevi/). My research focusses on developing methods for multi-objective learning for prooblems in healthcare and sustainable energy
