@@ -18,10 +18,16 @@ organizations:
   - name: Columbia University
     url: ""
 education:
-  courses: []
+  courses:
+    - course: "PhD Candidate "
+      institution: Columbia University
+      year: ""
+    - course: B.Tech.  Manufacturing Science and Engineering
+      institution: Indian Institute of Technology Kharagpur
+      year: ""
 superuser: true
 user_groups: []
 highlight_name: false
 email: ""
 ---
-I am a PhD candidate at [Columbia IEOR](https://www.ieor.columbia.edu) where I am fortunate to be co-advised by [Prof. Garud Iyengar](http://www.columbia.edu/~gi10/) and [Prof. Assaf Zeevi](https://www0.gsb.columbia.edu/faculty/azeevi/). My research focusses on developing methods for multi-objective learning with applications in healthcare and sustainable energy.
+I am a PhD candidate at [Columbia IEOR](https://www.ieor.columbia.edu) where I am fortunate to be advised by [Prof. Garud Iyengar](http://www.columbia.edu/~gi10/) and [Prof. Assaf Zeevi](https://www0.gsb.columbia.edu/faculty/azeevi/). My research focusses on developing methods for multi-objective learning for prooblems in healthcare and sustainable energy
